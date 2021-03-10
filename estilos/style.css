@@ -12,7 +12,7 @@ main {
 background-color: white;
 width: 500px;
 margin: auto;
-padding: 10px;
-box-shadow: 3px 3px 5px rgb(19, 18, 18);
+padding: 50px;
+box-shadow: 3px 3px 5px black;
 
 }
